@@ -5,11 +5,11 @@
 
 ## Developer
 
-# Frontend
+### Frontend
 
 [Khalid](https://github.com/Khalidprithy)
 [Arafat](https://github.com/Arshiat7)
 
-# Backend
+### Backend
 
 [Harsh](https://github.com/harshhes)
